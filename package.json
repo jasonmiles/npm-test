@@ -1,7 +1,8 @@
 {
   "name": "@jason/howtonpm",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Test project",
+  "repository": "https://github.com/jasonmiles/npm-test.git",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
